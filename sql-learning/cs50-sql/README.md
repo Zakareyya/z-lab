@@ -193,12 +193,6 @@ Topics:
 
 ---
 
-# Learning Reflections
-
-This section will contain my personal notes, observations, and examples while applying the concepts learned throughout the course.
-
----
-
 ## Acknowledgments & Credits
 
 A special thank you to the Harvard CS50 team for creating and sharing such a well-designed learning experience. I am especially grateful to David J. Malan, Carter Zenke, and everyone involved in developing, teaching, maintaining, and supporting CS50's Introduction to Databases with SQL.
