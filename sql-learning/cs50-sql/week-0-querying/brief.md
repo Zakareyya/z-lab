@@ -38,3 +38,4 @@ It demonstrates the use of:
 
 The result provides a summarized view of player characteristics for a specific group of records rather than returning individual rows.
 
+![Players Assignment - Specification 8](sql-learning/cs50-sql/week-0-querying/Week 0 Querying - Assignement - Players 8sql.png)
