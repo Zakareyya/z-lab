@@ -16,13 +16,13 @@ CS50 SQL is an introduction to SQL and relational databases, covering querying, 
 
 ## Academic Integrity
 
-The official CS50 SQL submissions and assignment solutions are not included in this repository. They are kept private in accordance with the course's academic integrity guidelines.
+The official CS50 SQL submissions and assignment solutions are not included in this repository. They are kept private in accordance with the course's academic honesty guidelines.
 
 The screenshots shared here are only partial demonstrations of my work and learning process. They are not complete solutions or a replacement for the original assignments.
 
 If you are a fellow CS50 student, I encourage you to approach the problem sets independently and embrace the challenges along the way. The process of struggling, debugging, and finding solutions yourself is where the real learning happens.
 
-If you are an employer or would like to verify my completion of CS50's Introduction to Databases with SQL, I would be happy to provide additional details and supporting evidence of my coursework and submitted assignments upon request.
+If you are an employer or would like to verify my completion of CS50's Introduction to Databases with SQL, I would be happy to provide additional details and supporting evidence of my coursework upon request.
 
 # Topics Covered
 
