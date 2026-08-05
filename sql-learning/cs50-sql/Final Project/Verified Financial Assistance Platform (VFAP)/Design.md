@@ -58,6 +58,8 @@ This database does not support:
 
 Entities are represented as SQLite tables with the following schema.
 
+![Detailed ER Diagram](Verified-Financial-Assistance-Platform-ER-Detailed-Diagram.png)
+
 ### Entities
 
 The database includes the following entities.
