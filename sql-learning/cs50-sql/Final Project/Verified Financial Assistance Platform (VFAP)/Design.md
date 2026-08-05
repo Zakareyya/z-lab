@@ -1,6 +1,8 @@
-# Design Document
+# Design Document: Verified Financial Assistance Platform (VFAP)
 
 By Zakareyya Dandan
+
+[![VFAP Demo](https://img.youtube.com/vi/FziJtAV8oMY/maxresdefault.jpg)](https://youtu.be/FziJtAV8oMY)
 
 Video overview: <[Verified Financial Assistance Platform (VFAP) | CS50 SQL Final Project](https://youtu.be/FziJtAV8oMY?si=BTeOTSd1Ir2jTR4n)>
 
