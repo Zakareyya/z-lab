@@ -4,6 +4,10 @@ My learning journey through Harvard University's CS50 SQL course.
 
 This section documents my notes, reflections, and learning progress while studying SQL and relational databases.
 
+
+![CS50 SQL Certificate](CS50 SQL.png)
+
+
 ## About the Course
 
 CS50 SQL is an introduction to SQL and relational databases, covering querying, relating, designing, writing, viewing, optimizing, and scaling databases.
