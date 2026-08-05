@@ -5,7 +5,7 @@ My learning journey through Harvard University's CS50 SQL course.
 This section documents my notes, reflections, and learning progress while studying SQL and relational databases.
 
 
-![CS50 SQL Certificate](CS50 SQL.png)
+![CS50 SQL Certificate](CS50-SQL.png)
 
 
 ## About the Course
